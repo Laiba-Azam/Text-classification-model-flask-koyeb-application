@@ -10,6 +10,6 @@ nltk==3.8.1
 regex==2024.5.15
 Flask==2.2.5
 flask-cors==4.0.1
-pickle==4.0
+
 re==2.2.1
 gunicorn== 22.0.0
